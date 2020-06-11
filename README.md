@@ -1,5 +1,5 @@
 # EDA_PYTHON_KNIME_PREDICTION_ENDING_PROJECT_MSC
-I'm very proud to share my ending project of MSc degree in business analytics. Project is consist of two stages.  First stage covers a comprehensive data analysis and visualisation of data obtained from kaggle. Second stage covers some preprocessing tasks performed and then usage of several machine learning models in order to predict severity levels of accidents happened in USA.  For both stage, python has been used as programming language. In second stage of the project, Knime analytics platform has been used and integrated with python.  
+I'm very proud to share my ending project of MSc in business analytics. Project is consist of two stages.  First stage covers a comprehensive data analysis and visualisation of data obtained from kaggle. Second stage covers some preprocessing tasks performed and then usage of several machine learning models in order to predict severity levels of accidents happened in USA.  For both stage, python has been used as programming language. In second stage of the project, Knime analytics platform has been used and integrated with python.  
 
 First stage:
 
